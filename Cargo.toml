@@ -1,6 +1,6 @@
 [package]
 authors = ["Dustin Knopoff <rust@knopoff.dev>"]
-edition = "2018"
+edition = "2021"
 name = "reader"
 version = "0.1.0"
 include = ["src/main.rs", "LICENSE", "README.md"]
